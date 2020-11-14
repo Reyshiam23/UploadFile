@@ -1,5 +1,5 @@
-# A187 ID
-BOT WHATSAPP HP Aris187 ID
+# SlanderCraft
+BOT WHATSAPP HP SlanderServer
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| A187 ID BOT       |                Feature           |
+| SlanderServer BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
